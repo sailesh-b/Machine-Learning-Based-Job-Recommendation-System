@@ -28,3 +28,8 @@ This project is using NLTK , because job recommendation system is using job desc
 
 ## To access csv files click here: 
 https://drive.google.com/drive/folders/1E-CelOt9FR0QKES03xE0EyQNSzrBCnFL?usp=sharing
+
+## References
+https://www.nltk.org/
+https://www.researchgate.net/publication/356601605_Job_Recommender_Systems_A_Review
+https://towardsdatascience.com/building-a-job-recommender-for-non-technical-business-roles-via-nlp-and-machine-learning-626c4039931e
