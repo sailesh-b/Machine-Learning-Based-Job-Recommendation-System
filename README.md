@@ -24,3 +24,6 @@ This project is using NLTK , because job recommendation system is using job desc
  - ** not used any algorithm, instead of that used NLTK for description extraction.
  ## Result
  - ** The job will recommend according to the keyword of description.
+
+## To access csv files click here: 
+https://drive.google.com/drive/folders/1E-CelOt9FR0QKES03xE0EyQNSzrBCnFL?usp=sharing
